@@ -18,9 +18,12 @@ Users should be able to:
 
 ## Screenshot
 
-![](./screenshot.jpg)
+![Screen Shot 2024-01-17 at 00 01 26](https://github.com/palmeiroerick/nft-preview-card-component/assets/148393698/1b9cdb7e-77f2-43b1-8667-9df5123ac9b9)
 
 ## Links
+
+- [Solution](https://github.com/palmeiroerick/nft-preview-card-component/)
+- [Live Site](https://nft-preview-card-component-seven-mauve.vercel.app/)
 
 ## Built with
 
